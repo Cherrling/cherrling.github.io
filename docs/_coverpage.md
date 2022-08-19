@@ -4,5 +4,5 @@
 
 
 [GitHub](https://github.com/Cherrling)
-[Get Started](/README)
+[了解更多](/README)
 
