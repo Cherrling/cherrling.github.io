@@ -1,5 +1,5 @@
 
-# Ubuntu安装vsftpd
+## Ubuntu安装vsftpd
 
 ```
 sudo apt-get update
@@ -91,7 +91,7 @@ sudo service vsftpd restart
 
 ---
 
-# Ubuntu安装JDK
+## Ubuntu安装JDK
 
 ```
 sudo apt install openjdk-8-jdk
